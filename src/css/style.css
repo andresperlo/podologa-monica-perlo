@@ -1,0 +1,51 @@
+.classeAPadre{
+    width: 20%;
+}
+.claseA a {
+    text-decoration: none;
+    color: black;
+}
+
+.navClass {
+    background-color: #cdaef0;
+}
+
+.clasePuntero{
+    padding: 10px;
+}
+
+.clasePuntero a{
+    cursor: url(../imgCursor/piepuntero2.png), auto;
+}
+
+
+
+@media (max-width: 576px) {
+    .claseA {
+        background-color: #d1c0e5
+    }
+
+    .claseA a {
+        display: block;
+        padding: 0px !important;
+        color: black;
+    }
+
+    .classeAPadre {
+        width: 25%;
+    }
+
+    .classeAPadre .logo {
+        width: 100%;
+    }
+
+    .classeAPadre .botonH{
+        display: flex;
+        justify-content: end;
+        width: 50%;
+    }
+  /*   .divPadre{
+        display: flex;
+        justify-content: center !important;
+    } */
+}
