@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/podologa-monica-perlo/static/css/main.8e28d1f3.css",
+    "main.js": "/podologa-monica-perlo/static/js/main.c4e77474.js",
+    "static/js/787.22c46e7a.chunk.js": "/podologa-monica-perlo/static/js/787.22c46e7a.chunk.js",
+    "index.html": "/podologa-monica-perlo/index.html",
+    "main.8e28d1f3.css.map": "/podologa-monica-perlo/static/css/main.8e28d1f3.css.map",
+    "main.c4e77474.js.map": "/podologa-monica-perlo/static/js/main.c4e77474.js.map",
+    "787.22c46e7a.chunk.js.map": "/podologa-monica-perlo/static/js/787.22c46e7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e28d1f3.css",
+    "static/js/main.c4e77474.js"
+  ]
+}
