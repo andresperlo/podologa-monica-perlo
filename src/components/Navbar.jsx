@@ -7,7 +7,7 @@ const Navbar = () => {
             <div class="container-fluid" >
                 <div className='d-flex justify-content-between align-items-center'>
                     <div className='classeAPadre'>
-                        <a class="navbar-brand ps-3" href="/" >
+                        <a class="navbar-brand ps-3" href="/podologa-monica-perlo" >
                             <img  className='logo' src="https://res.cloudinary.com/dbb9coys1/image/upload/v1652566041/WhatsApp_Image_2022-03-29_at_9.45.30_AM_1_vzrz12.png" alt="" width={'100%'} />
                         </a>
 
@@ -25,7 +25,7 @@ const Navbar = () => {
                     </div>
                     <div class="offcanvas-body justify-content-end pe-3 claseA">
                         <div className='clasePuntero'>
-                            <a href="/">Inicio</a>
+                            <a href="/podologa-monica-perlo">Inicio</a>
                         </div>
                         <div className='clasePuntero'>
                             <a href="#nosotros" className='px-3' >Nosotros</a>
